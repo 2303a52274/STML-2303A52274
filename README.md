@@ -17,3 +17,6 @@ WEEK 06
 https://github.com/2303a52274/STML-2303A52274/blob/main/STTML%20ASS_6.ipynb
 
 WEEK 07
+https://github.com/2303a52274/STML-2303A52274/blob/main/STML%20ASS%207.ipynb
+
+WEEK 08
