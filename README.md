@@ -23,3 +23,6 @@ WEEK 08
 https://github.com/2303a52274/STML-2303A52274/blob/main/STML%20ASS%208.ipynb
 
 WEEK 09
+https://github.com/2303a52274/STML-2303A52274/blob/main/STML%20ASS_9.ipynb
+
+WEEK 10
