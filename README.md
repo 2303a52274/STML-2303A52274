@@ -35,5 +35,5 @@ WEEK 12
 https://github.com/2303a52274/STML-2303A52274/blob/main/STML%20ASS_12.ipynb
 
 PROJECT
-https://github.com/2303a52274/STML-2303A52274/blob/main/STML%20PROJECT%201.ipynb
+https://github.com/2303a52274/STML-2303A52274/blob/main/stml_project_2274.ipynb
 
